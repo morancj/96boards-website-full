@@ -20,5 +20,5 @@
 	branch = master
 [submodule "96boards-website-source"]
 	path = 96boards-website-source
-	url = https://github.com/96boards/website.git
-	branch = develop
+	url = https://github.com/morancj/96boards-website.git
+	branch = submodule-documentation
